@@ -58,16 +58,3 @@ for (let index of [0, 1, 2, 3]) {
     i++;
   }
 }
-
-// let box = document.createElement("div");
-// Object.assign(box.style, {
-//   padding: paddingOrder[index],
-//   boxSizing: "border-box",
-//   width: i === 0 ? "50%" : "auto",
-//   float: "left",
-// });
-
-// box.style.padding = paddingOrder[index];
-// box.style.boxSizing = "border-box";
-// box.style.width = i === 0 ? "50%" : "auto";
-// box.style.float = "left";
